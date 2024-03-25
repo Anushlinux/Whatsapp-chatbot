@@ -57,7 +57,7 @@ The code consists of the following main components:
 
 ## Configure Webhooks to Receive Messages
 
-> Please note, this was very very hard and even more boring so i will suggest you to skip this  :sweat_smile:
+> Please note, this was very very hard (for me lol) and even more boring so i will suggest you to skip this  :sweat_smile:
 
 ### Start your app
 
